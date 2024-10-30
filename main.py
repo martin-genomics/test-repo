@@ -5,8 +5,11 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import time
 
 from helpers.state import load_state, save_state
+import chromedriver_autoinstaller
+
 scheduler = BackgroundScheduler()
 
+chromedriver_autoinstaller.install(cwd=True) 
 
 def main():
     
@@ -51,4 +54,4 @@ def main():
             time.sleep(config["sleepTime"])
             
 
-main()
+# main()
