@@ -1,0 +1,6 @@
+APScheduler==3.10.4
+beautifulsoup4==4.12.3
+Requests==2.32.3
+selenium==4.25.0
+selenium_stealth==1.0.6
+undetected_chromedriver==3.5.5
