@@ -1,15 +1,9 @@
 {
     "isLeft": false,
-    "main_url": "https://www.onlinemetals.com/en/buy/brass",
+    "main_url": "",
     "resume_page_url": "",
     "resume_product": "",
     "failed_urls": [
-        "https://www.onlinemetals.com/en/buy/brass",
-        "https://www.onlinemetals.com/en/buy/zinchttps://www.onlinemetals.com/en/buy/alloy-steel",
-        "https://www.onlinemetals.com/en/buy/aluminum",
-        "https://www.onlinemetals.com/en/buy/bronze",
-        "https://www.onlinemetals.com/en/buy/carbon-steel",
-        "https://www.onlinemetals.com/en/buy/cast-iron"
     ],
-    "visited_urls": "https://www.onlinemetals.com/en/buy/brass"
+    "visited_urls": ""
 }
